@@ -1,6 +1,6 @@
-package com.hrishabh.springaiproject;
+package com.hrishabh.springaiproject.controller;
 
-import org.springframework.ai.chat.model.ChatResponse;
+import com.hrishabh.springaiproject.service.ChatService;
 import org.springframework.web.bind.annotation.*;
 
 @RestController

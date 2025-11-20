@@ -1,5 +1,6 @@
-package com.hrishabh.springaiproject;
+package com.hrishabh.springaiproject.controller;
 
+import com.hrishabh.springaiproject.service.ImageService;
 import jakarta.servlet.http.HttpServletResponse;
 import org.springframework.ai.image.ImageResponse;
 import org.springframework.web.bind.annotation.*;

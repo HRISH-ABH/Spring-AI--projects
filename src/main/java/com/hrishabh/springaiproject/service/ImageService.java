@@ -1,4 +1,4 @@
-package com.hrishabh.springaiproject;
+package com.hrishabh.springaiproject.service;
 
 import org.springframework.ai.image.ImagePrompt;
 import org.springframework.ai.image.ImageResponse;
